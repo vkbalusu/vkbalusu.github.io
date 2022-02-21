@@ -1,0 +1,186 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.App {
+    font-size: large;
+    font-family: Lato, "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+.body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.element {
+    /*height: 1000px;*/
+    background-color: white;
+    /*font-size: 45px;*/
+    /*border-top: 1px solid #000;*/
+    /*padding-top: 55px;*/
+}
+
+.element.no-padding {
+    padding-top: 0;
+}
+
+.navLinks {
+    text-align: center;
+    font-size: 120%;
+    color: white;
+}
+
+
+.sectionTitle {
+    font-size: 200%;
+    text-decoration: underline;
+}
+
+.sectionTitleContainer {
+    padding-bottom: 1%;
+}
+
+.contactInfoContainer {
+    background-color: #eceaea;
+    border-radius: 25px;
+}
+
+.socialMediaIcons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+}
+
+.footerContainer {
+    /* padding-top: 2%; */
+    padding-bottom: 2%;
+    display: flex;
+    justify-content: center;
+}
+
+.goToTopContainer {
+    display: flex;
+    justify-content: center;
+    /* padding-right: 1%; */
+}
+
+
+.footerContent {
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    display: block;
+    font-size: 1vw;
+}
+
+.projectBadges {
+    cursor: pointer;
+}
+.projectBadges:hover {
+    background-color: rgb(206, 206, 206);
+}
+
+@media (max-width: 1580px) {
+    .navLinks {
+        font-size: 100%;
+    }
+
+    .active .navLinkText {
+        font-size: 120%;
+    }
+}
+
+@media (max-width: 1360px) {
+    .navLinks {
+        font-size: 90%;
+    }
+
+    .active .navLinkText {
+        font-size: 115%;
+    }
+}
+
+@media (max-width: 1250px) {
+    .navLinks {
+        font-size: 75%;
+    }
+
+    .active .navLinkText {
+        font-size: 110%;
+    }
+}
+
+@media (max-width: 1090px) {
+    .navLinks {
+        font-size: 65%;
+    }
+
+    .active .navLinkText {
+        font-size: 110%;
+    }
+
+    .skillName {
+        font-size: 15px;
+    }
+
+    .skillsHeading {
+        font-size: 18px;
+    }
+
+    .skillImage {
+        height: 30px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .navLinks {
+        font-size: 120%;
+    }
+
+    .active .navLinkText {
+        font-size: 140%;
+    }
+}
+
+@media (max-width: 768px) {
+    .introductionText {
+        font-size: 18px;
+    }
+
+    .skillName {
+        font-size: 12px;
+    }
+
+    .skillsHeading {
+        font-size: 15px;
+    }
+    .footerContent {
+        padding-top: 0.3%;
+        padding-bottom: 0.3%;
+        display: block;
+        font-size: 2vw;
+    }
+}
+
+@media (max-width: 550px) {
+    .introductionText {
+        font-size: 15px;
+    }
+}
+/* 
+@media (max-width: 500px) {
+    .sectionImage {
+        margin-right: 10px;
+    }
+} */
+
+@media (max-width: 400px) {
+    .introductionText {
+        font-size: 13px;
+    }
+}

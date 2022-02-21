@@ -1,0 +1,193 @@
+.aboutContainer {
+    background-color: #0c0b0b;
+    color: #f6f6f6;
+    margin: 0;
+    padding-top: 150px;
+    padding-bottom: 110px;
+    padding-right: 150px;
+    padding-left: 20%;
+    font: "Rubik", sans-serif;
+    border: 5px solid #0c0b0b;
+}
+
+.skillsContainer {
+    margin: 0;
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+
+.introductionText {
+    font-size: 170%;
+    color: #bfbfbf;
+}
+
+.skillsHeading {
+    padding-bottom: 10px;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 23px;
+}
+
+.skillName {
+    font-size: 18px;
+}
+
+.introductionPhoto {
+    height: 350px;
+    border-radius: 15px;
+}
+
+.nameHeading {
+    font-family: "Merriweather", serif;
+    font-size: 320%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    padding-bottom: 20px;
+}
+
+.upperNameHeading {
+    display: none;
+}
+
+.upperNameHeading span {
+    transform: translateY(100%);
+    display: inline-block;
+}
+
+.inlineNameHeading {
+    overflow-y: hidden;
+    min-height: 65px;
+}
+
+.inlineNameHeading span {
+    transform: translateY(100%);
+    display: inline-block;
+}
+
+@media screen and (max-width: 1360px) {
+    .nameHeading {
+        font-size: 250%;
+    }
+
+    .introductionText {
+        font-size: 130%;
+    }
+
+    .aboutContainer {
+        padding-left: 10%;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .aboutContainer {
+        padding-right: 120px;
+        padding-left: 11%;
+    }
+
+    .introductionPhoto {
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .nameHeading {
+        font-size: 220%;
+    }
+}
+
+.contact-icons-about-section {
+    padding-right: 25px;
+}
+
+@media screen and (max-width: 768px) {
+    .aboutContainer {
+        padding-right: 30px;
+        padding-left: 5%;
+    }
+
+    .nameHeading {
+        font-size: 220%;
+        padding-left: 3%;
+    }
+
+    .introductionText {
+        font-size: 120%;
+        padding-left: 3%;
+    }
+
+    .introductionPhoto {
+        height: 185px;
+    }
+
+    .contact-icons-about-section {
+        padding-right: 15px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .aboutContainer {
+        padding-top: 100px;
+        padding-right: 15px;
+        padding-left: 2%;
+    }
+
+    .nameHeading {
+        font-size: 180%;
+        padding-left: 5%;
+    }
+
+    .introductionText {
+        font-size: 90%;
+        padding-left: 7%;
+    }
+
+    .contact-icons-about-section {
+        padding-right: 10px;
+    }
+
+    .introductionPhoto {
+        height: 165px;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    .upperNameHeading {
+        display: block;
+        overflow-y: hidden;
+        min-height: 65px;
+    }
+
+    .inlineNameHeading {
+        display: none;
+    }
+
+    .introductionText {
+        padding-left: 12%;
+    }
+
+    .contact-icons-about-section {
+        padding-right: 10px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .nameHeading {
+        margin-top: 0;
+        margin-bottom: 1.5%;
+        padding-bottom: 15px;
+    }
+
+    .aboutContainer {
+        padding-bottom: 70px;
+    }
+
+    .introductionPhoto {
+        height: 150px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .introductionPhoto {
+        height: 130px;
+    }
+}

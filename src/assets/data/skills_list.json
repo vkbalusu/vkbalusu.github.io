@@ -1,0 +1,66 @@
+{
+    "Card1": [
+        [
+            "C++",
+            "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"
+        ],
+        [
+            "Java",
+            "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"
+        ],
+        [
+            "C",
+            "https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"
+        ],
+        [
+            "OJET",
+            "https://www.oracle.com/webfolder/technetwork/jet-700/css/images/logo_jet_256_rich.png"
+        ],
+        [
+            "Python",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
+        ]
+    ],
+    "Card2": [
+        [
+            "SQL",
+            "https://banner2.cleanpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg"
+        ],
+        [
+            "Spring",
+            "https://img.icons8.com/color/96/000000/spring-logo.png"
+        ],
+        [
+            "Hibernate",
+            "https://hibernate.org/images/hibernate_icon_whitebkg.svg"
+        ],
+        [
+            "Selenium",
+            "https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"
+        ],
+        [
+            "Tensorflow",
+            "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"
+        ]
+    ],
+    "Card3": [
+        [
+            "Oracle Cloud",
+            "https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_oracle.jpg"
+        ],
+        [
+            "Oracle VBCS",
+            "https://www.oracle.com/webfolder/technetwork/jet-700/css/images/vbcs_logo-150.png"
+        ],
+        [   "Jira", 
+            "https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png"
+        ],
+        [   "GitHub", 
+            "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+        ],
+        [
+            "Jenkins",
+            "https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg"
+        ]
+    ]
+}
