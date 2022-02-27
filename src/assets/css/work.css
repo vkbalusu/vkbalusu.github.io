@@ -12,7 +12,11 @@
     margin-bottom: 0.6%;
     font-size: 80%;
 }
-
 .work {
     font-size: 90%;
+}
+@media (max-width: 420px) {
+    .workSection{
+        font-size: 70%;
+    }
 }
