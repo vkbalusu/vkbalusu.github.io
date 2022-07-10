@@ -88,7 +88,7 @@ class Main extends Component {
 
             <li ref={this.resumePdfRef}>
               <a
-                href={"https://drive.google.com/file/d/1Fzf7dfxWCC2ZQbROQUfiwVYMlKn5CBww/view?usp=sharing"}
+                href={"https://drive.google.com/file/d/10qSZOxfIZebiK-SBqwmipV4ooXTgO5Mx/view?usp=sharing"}
                 className="navLinkItem"
                 target="_blank"
                 rel="noopener noreferrer"

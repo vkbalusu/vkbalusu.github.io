@@ -31,10 +31,10 @@ const Education = (props) => {
                                         Master of Computer Science
                                     </i>
                                     <br /> <br />
-                                    <b>Course work:</b> Operaing Systems, Parallel and Distributed Computing, Data Structures,  Artificial Intelligence
+                                    <b>Course work:</b> Design and Analysis of Algorithms, Operaing Systems, Parallel and Distributed Computing, Data Structures,  Artificial Intelligence
                                     <br /><br />
-                                    <a href="https://drive.google.com/file/d/1zdngN4RfVtU6mjThxQEyuNISpfx5FMdc/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-                                        See transcripts
+                                    <a href="https://drive.google.com/file/d/1NAjp18z_n1yRYf_SYzvLMVpBp9RHlYkU/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                        See transcript
                                     </a>
                                 </div>
                             </section>
@@ -68,7 +68,7 @@ const Education = (props) => {
                                     <b>Course work:</b> Data Structures and Algorithms, Computer Architecture, Computer Networks, Introduction to Programming, Logic Design, Graph theory, Cryptography
                                     <br /><br />
                                     <a href="https://drive.google.com/file/d/1oHY_o2b96733uWSphG3Jtm9073oK26or/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-                                        See transcripts
+                                        See transcript
                                     </a>
                                 </div>
                             </section>

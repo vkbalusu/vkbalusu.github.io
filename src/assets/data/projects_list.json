@@ -1,47 +1,34 @@
 {
-    "4": {
-        "title": "Classification of Amazon food reviews",
-        "description": "Performed sentiment classification of Amazon food reviews using Naive Bayes, Logistic Regression, XgBoost and LSTM algorithms. Vectorizers include Bag of Words and TF-IDF. Carried out extensive feature engineering on review text to attain accuracies in the range 91% and 94%.",
-        "githubUrl": "https://github.com/vkbalusu",
-        "projectUrl": "https://github.com/vkbalusu",
-        "imageUrl": "github_explorer_screenshot.png",
-        "technologies": [
-            "Natural Language Processing"
-        ]
-    },
-    "3": {
-        "title": "Linux Shell Implementation",
-        "description": "Implemented a shell program using basic Linux system calls in C like fork and execvp. Shell supports I/O redirection, pipes, history, background process and globbing.",
-        "githubUrl": "https://github.com/vkbalusu",
-        "projectUrl": "https://github.com/vkbalusu",
-        "imageUrl": "github_explorer_screenshot.png",
-        "technologies": [
-            "Operating Systems",
-            "System Calls",
-            "C"
-        ]
-    },
-    "2": {
-        "title": "Dynamic channel access scheme for IEEE 802.11ah protocol",
-        "description": "Presented a comparative study of traditional DCF vs 802.11e EDCA based channel access scheme. Conceptualized a dynamic access scheme by predicting channel access parameter values using hierarchical clustering and regression tree machine learning algorithms.",
-        "githubUrl": "https://github.com/vkbalusu",
-        "projectUrl": "https://github.com/vkbalusu",
-        "imageUrl": "github_explorer_screenshot.png",
-        "technologies": [
-            "Network Protocols",
-            "NS3 Simulator",
-            "Machine Learning"
-        ]
-    },
-    "1": {
-        "title": "Huffman encoding and decoding",
-        "description": "Implemented Huffman encoder and decoder using priority queues in C++. Compared performance of priority queues and binary heaps by generating Huffman trees over thousands of records.",
-        "githubUrl": "https://github.com/vkbalusu",
-        "projectUrl": "https://github.com/vkbalusu",
-        "imageUrl": "github_explorer_screenshot.png",
-        "technologies": [
-            "Data Structures",
-            "C++"
-        ]
-    }
+  "4": {
+    "title": "BillShare",
+    "description": "Devised a mobile application where users can split bills with friends. Users can send/accept friend requests, create groups and share bills with multiple users at a time. App keeps track of due date specified for a bill, notifies individuals for any bills which are overdue.",
+    "githubUrl": "https://github.com/vkbalusu",
+    "projectUrl": "https://github.com/vkbalusu",
+    "imageUrl": "github_explorer_screenshot.png",
+    "technologies": ["Spring Boot", "React Native"]
+  },
+  "3": {
+    "title": "FlashTrip",
+    "description": "Developed a web application to prepare itinerary for selected tourist destination and duration using Google Maps APIs. Authored an algorithm to optimize the travel time and distance between the places in the proposed itinerary.",
+    "githubUrl": "https://github.com/vkbalusu",
+    "projectUrl": "https://github.com/vkbalusu",
+    "imageUrl": "github_explorer_screenshot.png",
+    "technologies": ["Node JS", "React JS"]
+  },
+  "1": {
+    "title": "Dynamic channel access scheme for IEEE 802.11ah protocol",
+    "description": "Presented a comparative study of traditional DCF vs 802.11e EDCA based channel access scheme. Conceptualized a dynamic access scheme by predicting channel access parameter values using hierarchical clustering and regression tree machine learning algorithms.",
+    "githubUrl": "https://github.com/vkbalusu",
+    "projectUrl": "https://github.com/vkbalusu",
+    "imageUrl": "github_explorer_screenshot.png",
+    "technologies": ["Network Protocols", "NS3 Simulator", "Machine Learning"]
+  },
+  "2": {
+    "title": "Linux Shell",
+    "description": "Implemented a shell program using basic Linux system calls in C such as fork and execvp. Shell supports I/O redirection, pipes, history, background process and globbing.",
+    "githubUrl": "https://github.com/vkbalusu",
+    "projectUrl": "https://github.com/vkbalusu",
+    "imageUrl": "github_explorer_screenshot.png",
+    "technologies": ["C", "Operating Systems"]
+  }
 }
